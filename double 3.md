@@ -1,0 +1,44 @@
+double 3.3= 0x400A666666666666=01000000 00001010 01100110 01100110 01100110 01100110 01100110 01100110
+
+double 1.1 =0x3FF199999999999A=00111111 11110001 10011001 10011001 10011001 10011001 10011001 10011010
+
+3.3 									
+
+Most accurate representation = 3.29999999999999982236431605997E0
+
+1.1 									
+
+Most accurate representation = 1.10000000000000008881784197001E0
+
+
+
+float 3.3
+
+0x40533333 = 01000000 01010011 00110011 00110011
+
+3.3 									
+
+Most accurate representation = 3.2999999523162841796875E0
+
+
+
+float 1.1
+
+0x3F8CCCCD = 00111111 10001100 11001100 11001101
+
+1.1 									
+
+Most accurate representation = 1.10000002384185791015625E0
+
+
+
+
+
+![image-20211007192926923](C:\Users\JXY\AppData\Roaming\Typora\typora-user-images\image-20211007192926923.png)
+
+![image-20211007192944335](C:\Users\JXY\AppData\Roaming\Typora\typora-user-images\image-20211007192944335.png)
+
+![image-20211007193053604](C:\Users\JXY\AppData\Roaming\Typora\typora-user-images\image-20211007193053604.png)
+
+![image-20211007193110673](C:\Users\JXY\AppData\Roaming\Typora\typora-user-images\image-20211007193110673.png)
+
